@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+"Ingrese el valor del radio: "
+5
+1
+1
+r
+6
+2
+4
+area
+10
+3.1416*r^2
+7
+volumen
+16
+(4/3)*3.1416*r^3
+4
+1
+4
+area
+4
+1
+7
+volumen
+1

@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+preciog
+5
+10000
+9
+distancia
+2
+85
+4
+1
+35
+"Capacidad del caminon en kilos?: "
+5
+1
+10
+capacidad 
+4
+1
+36
+"Consumo km por galon del camion?: "
+5
+1
+7
+consumo
+4
+1
+30
+"Cuantos kilos va a llevar?: "
+5
+1
+5
+kilos
+6
+2
+7
+nviajes
+17
+kilos / capacidad
+8
+ngalones
+29
+(distancia / consumo)*nviajes
+6
+1
+5
+costo
+27
+ngalones * preciog* nviajes
+4
+1
+7
+nviajes
+4
+1
+8
+ngalones
+4
+1
+5
+costo
+1

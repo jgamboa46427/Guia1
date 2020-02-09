@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+"Digite la longitud: "
+5
+1
+1
+s
+4
+1
+42
+"Digite el numero de lados del poligono: "
+5
+1
+1
+n
+6
+1
+9
+resultado
+25
+(n*s^2)/(4*tan(3.1416/n))
+4
+1
+9
+resultado
+1

@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+8
+valorlpk
+11
+2.352145833
+4
+1
+59
+"Ingrese el valor de una eficiencia de combustible en MPG "
+5
+1
+8
+valormpg
+6
+1
+11
+equivalente
+17
+valormpg*valorlpk
+4
+1
+11
+equivalente
+1

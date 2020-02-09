@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"Ingrese latitud ciudad 1 "
+5
+1
+2
+t1
+4
+1
+28
+"Ingrese longitud ciudad 1 "
+5
+1
+2
+g1
+4
+1
+27
+"Ingrese latitud ciudad 2 "
+5
+1
+2
+t2
+4
+1
+28
+"Ingrese longitud ciudad 2 "
+5
+1
+2
+g2
+6
+1
+9
+distancia
+56
+6371.07*asin(sin(t1))*sin(t2)*cos(t1)*cos(t2)*cos(g1)-g2
+4
+1
+9
+distancia
+1

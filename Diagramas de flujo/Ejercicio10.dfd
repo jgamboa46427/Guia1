@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+"Ingrese r1 = "
+5
+1
+2
+r1
+4
+1
+15
+"Ingrese h1 = "
+5
+1
+2
+h1
+4
+1
+15
+"Ingrese r2 = "
+5
+1
+2
+r2
+4
+1
+15
+"Ingrese h2 = "
+5
+1
+2
+h2
+6
+3
+9
+vcompleto
+16
+(3.1416*r1^2)*h1
+11
+vdeficiente
+16
+(3.1416*r2^2)*h2
+13
+vtroncodecono
+21
+vcompleto-vdeficiente
+4
+1
+13
+vtroncodecono
+1

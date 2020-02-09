@@ -21,7 +21,7 @@ public class ViajeSasaima
         System.out.println("Cuantos kilos va a llevar?: ");
         double kilos = teclado.nextDouble();
         double nviajes = kilos / capacidad;
-        double ngalones = (distancia / consumo)+nviajes;
+        double ngalones = (distancia / consumo)*nviajes;
         double costo = ngalones * preciog* nviajes;
         System.out.println("Viajes necesarios = " + nviajes);
         System.out.println("Cantidad de galones = " + ngalones);
